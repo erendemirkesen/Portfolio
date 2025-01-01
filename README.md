@@ -1,7 +1,4 @@
-# Game Developer
+# Hi, I'm Eren Demirkesen. A passionate game developer creating innovative PC and mobile games.
 
-### Education
-Software Engineering
+###[Viking Survivors The Last Ragnarök](https://store.steampowered.com/app/3137800/Viking_Survivors_The_Last_Ragnark/)
 
-### Work Experience
-[Publication](https://store.steampowered.com/app/3137800/Viking_Survivors_The_Last_Ragnark/)
