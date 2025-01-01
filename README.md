@@ -3,7 +3,7 @@
 
 [Viking Survivors The Last Ragnarök](https://store.steampowered.com/app/3137800/Viking_Survivors_The_Last_Ragnark/)
 
-<img src="https://erendemirkesen.github.io/Portfolio/assets/img/viking-gif.gif"/>
+<img src="https://erendemirkesen.github.io/Portfolio/assets/viking-gif.gif"/>
 
 
 
